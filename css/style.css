@@ -150,26 +150,6 @@ header i:hover {
     background-color: #fff;
 }
 
-.massively my-date {
-    padding: 100px 10% 70px;
-}
-
-.massively my-date span {
-    float: left;
-}
-
-.massively my-date span:not(:nth-of-type(2)) {
-    width: 39%;
-    margin: 6px 0 0 0;
-    border: .5px solid rgba(194, 194, 194, .5);
-    display: block;
-}
-
-.massively my-date span:nth-of-type(2) {
-    margin: 0 2%;
-    text-transform: capitalize;
-}
-
 .massively .content .h1 a {
     cursor: pointer;
     transition: .1s all ease-in-out;
